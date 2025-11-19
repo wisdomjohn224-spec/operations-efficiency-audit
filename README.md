@@ -2,7 +2,6 @@ Project: Operations Efficiency Audit (SQL & Business Process Optimization)
 
 Demonstrated Skills: Advanced SQL, Database Schema Design, Metric Definition, Business Value Quantification.
 
-Live Link: [Link to your Tableau/Power BI dashboard visualization of these results (Optional, but highly recommended)]
 
 🚀 The Business Problem
 
